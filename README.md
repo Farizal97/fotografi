@@ -1,2 +1,2 @@
 # fotografi
-sistem informasi fitigrafi UBSI 12165255
+sistem informasi fotografi UBSI 12165255
